@@ -4,4 +4,4 @@ This is a personal quadruped robotics project I created to explore robotics beyo
 
 **Technologies:** C++
 
-**Status:** Ongoing personal project
+**Status:** Finished personal project
